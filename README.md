@@ -108,7 +108,8 @@ Que1. How should you organize your data to perform analysis on it?
 Ans2. First of all i combined data from quarters into a single frame. After thatt to organize data for analysis, i arranged it into clear tables and make sure dates, numbers, and text are consistently formatted. I used clear headers, apply filters and sorting to focus on important parts, and added calculated columns for any needed metrics.
 Here are some columns that i added
 ![image](https://github.com/user-attachments/assets/3f6611c1-b363-4052-a4de-bd94dcf7b1c7)
-https://github.com/ashut0sh-verma/Case-Study-/issues/2#issue-2522352897
+
+![image](https://github.com/ashut0sh-verma/Case-Study-/issues/2#issue-2522352897)
 
 Que2. Has your data been properly formatted?
 Ans2. Yes, my data has been properly formatted. I ensured that dates, numbers, and text entries are consistently formatted, and I verified that all columns have clear headers and that the data is organized logically for analysis.
