@@ -109,7 +109,9 @@ Ans2. First of all i combined data from quarters into a single frame. After that
 Here are some columns that i added
 ![image](https://github.com/user-attachments/assets/3f6611c1-b363-4052-a4de-bd94dcf7b1c7)
 
-![image](https://github.com/ashut0sh-verma/Case-Study-/issues/2#issue-2522352897)
+
+
+![image](https://github.com/user-attachments/assets/c12e6434-dc68-4f00-b2f2-9739f9b76296)
 
 Que2. Has your data been properly formatted?
 Ans2. Yes, my data has been properly formatted. I ensured that dates, numbers, and text entries are consistently formatted, and I verified that all columns have clear headers and that the data is organized logically for analysis.
