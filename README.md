@@ -33,4 +33,5 @@ annual members and casual riders differ, why casual riders would buy a membershi
 digital media could affect their marketing tactics. Moreno and her team are interested in
 analyzing the Cyclistic historical bike trip data to identify trends.
 
-i dwonloaded the dataset from https://divvy-tripdata.s3.amazonaws.com/index.html
+i downloaded the dataset from https://divvy-tripdata.s3.amazonaws.com/index.html
+and i used 2019 data from January to December.
