@@ -82,3 +82,28 @@ Ans. The data had some issues like missing values, outliers , inconsistent forma
 
 **Phase 3 – PROCESS**
 
+Guiding questions
+
+Que1. What tools are you choosing and why?
+Ans1. I chose Power BI for the analysis because it offers powerful data visualization capabilities, user-friendly design, and robust integration with various data sources. It allows for interactive dashboards and detailed reporting, which are ideal for exploring and presenting insights from the Divvy trip data effectively.
+
+Que2. Have you ensured your data’s integrity?
+Ans2. Yes, I managed to ensure the integrity of the data. I added 12 months of data to a single data frame, making it ready for a year's analysis.
+
+Que3. What steps have you taken to ensure that your data is clean?
+Ans3. I cleaned the data by removing duplicates, handling missing values, checking for outliers, standardizing formats, and validating accuracy.
+
+Que4. How can you verify that your data is clean and ready to analyze?
+Ans4. I verify that my data is clean and ready to analyze by checking for and resolving missing values, ensuring there are no duplicates or outliers, confirming consistent formats.
+
+Que5. Have you documented your cleaning process so you can review and share those
+results?
+Ans5. I combined data from all quarters into a single dataframe then added some colums that were necessary and removed unnecessary columns.
+
+**Phase 4 – Analyze**
+
+Guiding questions
+
+Que1. How should you organize your data to perform analysis on it?
+Ans2. First of all i combined data from quarters into a single frame. After thatt to organize data for analysis, i arranged it into clear tables and make sure dates, numbers, and text are consistently formatted. I used clear headers, apply filters and sorting to focus on important parts, and added calculated columns for any needed metrics.
+Here are some columns that i added
