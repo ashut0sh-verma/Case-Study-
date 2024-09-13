@@ -105,7 +105,6 @@ Ans5. I combined data from all quarters into a single dataframe then added some 
 Guiding questions
 
 Que1. How should you organize your data to perform analysis on it?
-
 Ans2. First of all i combined data from quarters into a single frame. After thatt to organize data for analysis, i arranged it into clear tables and make sure dates, numbers, and text are consistently formatted. I used clear headers, apply filters and sorting to focus on important parts, and added calculated columns for any needed metrics.
 Here are some columns that i added
 ![image](https://github.com/user-attachments/assets/3f6611c1-b363-4052-a4de-bd94dcf7b1c7)
@@ -115,19 +114,15 @@ Here are some columns that i added
 ![image](https://github.com/user-attachments/assets/c12e6434-dc68-4f00-b2f2-9739f9b76296)
 
 Que2. Has your data been properly formatted?
-
 Ans2. Yes, my data has been properly formatted. I ensured that dates, numbers, and text entries are consistently formatted, and I verified that all columns have clear headers and that the data is organized logically for analysis.
 
 Que3. What surprises did you discover in the data?
-
 Ans3. There were notable differences in how annual members and casual riders used the bikes, such as varying peak times or trip duration.
 
 Que4. What trends or relationships did you find in the data?
-
 Ans4. In the data, I found several key trends and relationships like usage patterns, popular stations, trip durations etc.
 
 Que5. How will these insights help answer your business questions?
-
 Ans5. These insights show how annual members and casual riders use the bikes differently, helping us understand their behavior. By knowing when and where each group rides, and how long they typically ride, we can create better marketing strategies to attract casual riders and turn them into annual members.
 
 **Phase 5 - SHARE**
