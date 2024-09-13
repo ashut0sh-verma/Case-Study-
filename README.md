@@ -60,23 +60,23 @@ Guiding Questions:
 
 Que1: Where is your data located?
 
-    Ans1: i downloaded the dataset from https://divvy-tripdata.s3.amazonaws.com/index.html and i used 2019 data from January to December.
+Ans1: i downloaded the dataset from https://divvy-tripdata.s3.amazonaws.com/index.html and i used 2019 data from January to December.
 
 Que2: How is the data organized?
 
-    Ans2: There are many ways to organize data. I chose PowerBi because i can also clean data in there. I combined data from all quarters into a single dataframe then added some colums that were necessary and removed unnecessary columns.
+Ans2: There are many ways to organize data. I chose PowerBi because i can also clean data in there. I combined data from all quarters into a single dataframe then added some colums that were necessary and removed unnecessary columns.
 
 Que3. Are there issues with bias or credibility in this data? Does your data ROCCC?
 
-    Ans3. In this project, data largely meets the ROCCC criteria, indicating that it is a credible source for analysis. The data is reliable and original, sourced directly from Divvy’s system, and offers a comprehensive view of bike usage patterns between casual riders and annual members. It is current and properly cited, making it suitable for developing insights.
+Ans3. In this project, data largely meets the ROCCC criteria, indicating that it is a credible source for analysis. The data is reliable and original, sourced directly from Divvy’s system, and offers a comprehensive view of bike usage patterns between casual riders and annual members. It is current and properly cited, making it suitable for developing insights.
 
 Que4. How are you addressing licensing, privacy, security, and accessibility?
 
-    Ans4. In this project, data is handled responsibly by following key guidelines. The data is publicly available and shared under an open license, meaning it can be used as long as the rules are followed. Since the data doesn't contain personal details, privacy is protected, and with proper storage, security risks are low. The data is easy to access and analyze, allowing anyone to use it for insights. Overall, the data is handled in a way that respects licensing, privacy, security, and accessibility.
+Ans4. In this project, data is handled responsibly by following key guidelines. The data is publicly available and shared under an open license, meaning it can be used as long as the rules are followed. Since the data doesn't contain personal details, privacy is protected, and with proper storage, security risks are low. The data is easy to access and analyze, allowing anyone to use it for insights. Overall, the data is handled in a way that respects licensing, privacy, security, and accessibility.
 
 Que5. How did you verify the data’s integrity?
 
-    Ans5. To ensure the data’s integrity, I checked for missing values, made sure the formats were consistent, looked for unusual or incorrect data and removed duplicates. This process helped confirm that the data is reliable and ready for analysis.
+Ans5. To ensure the data’s integrity, I checked for missing values, made sure the formats were consistent, looked for unusual or incorrect data and removed duplicates. This process helped confirm that the data is reliable and ready for analysis.
 
 Que6. How does it help you answer your question?
 
@@ -84,7 +84,7 @@ Ans7. Verifying the data’s integrity ensures the information is accurate, help
 
 Que8. Are there any problems with the data?
 
-    Ans.8 The data had some issues like missing values, outliers , inconsistent formats that need to be fixed for accurate analysis.
+Ans.8 The data had some issues like missing values, outliers , inconsistent formats that need to be fixed for accurate analysis.
 
 
 **Phase 3 – PROCESS**
