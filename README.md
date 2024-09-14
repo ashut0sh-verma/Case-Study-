@@ -144,5 +144,47 @@ Ans5. These insights show how annual members and casual riders use the bikes dif
 
 **Phase 5 - SHARE**
 
+Guiding questions
+
+Que1. Were you able to answer the question of how annual members and casual riders use Cyclistic bikes
+differently?
+
+Ans1. Yes, I was able to identify clear differences in how annual members and casual riders use the bikes, such as usage times, trip durations, and station preferences.
+
+Que2. What story does your data tell?
+
+Ans2. The data shows that annual members ride more frequently and typically during weekdays, while casual riders use the bikes more on weekends. It also highlights busiest start and end stations.
+
+Que3. How do your findings relate to your original question?
+
+Ans3. My findings directly answer the question by showing distinct usage patterns between casual riders and annual members, providing insights to help convert casual riders into members.
+
+Que4. Who is your audience? What is the best way to communicate with them?
+
+Ans4. My audience includes Cyclistic executives and the marketing team. The best way to communicate with them is through clear, visual data presentations with key insights.
+
+Que5. Can data visualization help you share your findings?
+
+Ans5. Using charts and graphs will simplify the presentation of trends and comparisons, making it easier for the audience to quickly understand the key differences between casual riders and annual members. Visualizing the data helps highlight important insights clearly and effectively.
 
 
+
+**Phase 6 – Act**
+
+Guiding question
+
+Que1.  What is your final conclusion based on your analysis?
+
+Ans1. From the analysis, we see that annual members ride more often during weekdays and usually take longer trips. In contrast, casual riders tend to use the bikes on weekends for shorter trips. This shows clear differences in how each group uses the bike service. The marketing strategy to encourage casual riders to get an annual membership should focus on key topics like saving money, improving health, helping the environment, and avoiding traffic. Highlighting the benefits of cycling in these areas can be more appealing than other transportation options.
+
+Que2.  How could your team and business apply your insights?
+
+Ans2. The marketing team can work on turning casual riders into annual members by highlighting the advantages of membership. They can focus on weekends and target the stations that casual riders use the most. promoting the membership benefits during weekends or at popular casual rider locations might encourage more casual riders to convert to annual memberships. By focusing on how each group uses the service, Cyclistic can better meet their needs and improve overall satisfaction.
+
+Que3. What next steps would you or your stakeholders take based on your findings?
+
+Ans3. The next steps based on these findings could involve creating specific marketing campaigns aimed at casual riders and offering them special membership deals. Also, improving stations or services in areas that casual riders frequently use could enhance their experience.
+
+Que4. Is there additional data you could use to expand on your findings?
+
+Ans4. To get a better understanding of what affects rider behavior, further analysis could look at factors like weather, demographics, or local events. This could help improve the service for both casual riders and annual members.
