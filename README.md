@@ -166,6 +166,15 @@ Ans4. My audience includes Cyclistic executives and the marketing team. The best
 Que5. Can data visualization help you share your findings?
 
 Ans5. Using charts and graphs will simplify the presentation of trends and comparisons, making it easier for the audience to quickly understand the key differences between casual riders and annual members. Visualizing the data helps highlight important insights clearly and effectively.
+here are some visualizations
+![dashboard1](https://github.com/user-attachments/assets/e7ca6ea2-b96f-4217-b181-febe2f669988)
+
+
+![dashboard2](https://github.com/user-attachments/assets/1b5921c9-692a-41df-afcc-dcf642e1fa38)
+
+
+![dashboard3](https://github.com/user-attachments/assets/950f6ae7-5da9-4859-ac1a-c1e15fd5ef1a)
+
 
 
 
