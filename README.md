@@ -120,11 +120,11 @@ Que1. How should you organize your data to perform analysis on it?
 
 Ans2. First of all i combined data from quarters into a single frame in Python and then i cleaned it. After thatt to organize data for analysis, i arranged it into clear tables and make sure dates, numbers, and text are consistently formatted. I used clear headers, apply filters and sorting to focus on important parts, and added calculated columns for any needed metrics.
 Here are some columns that i added
-[[![image](https://github.com/user-attachments/assets/3f6611c1-b363-4052-a4de-bd94dcf7b1c7)](https://github.com/ashut0sh-verma/Case-Study-/issues/6#issue-2643405390)](https://github.com/ashut0sh-verma/Case-Study-/issues/6#issue-2643405390)
+![image](https://github.com/user-attachments/assets/591f8bbf-7646-4efd-abf7-4bf5aaaefcc3)
 
 
 
-![image](https://github.com/user-attachments/assets/c12e6434-dc68-4f00-b2f2-9739f9b76296)
+
 
 Que2. Has your data been properly formatted?
 
