@@ -167,13 +167,16 @@ Que5. Can data visualization help you share your findings?
 
 Ans5. Using charts and graphs will simplify the presentation of trends and comparisons, making it easier for the audience to quickly understand the key differences between casual riders and annual members. Visualizing the data helps highlight important insights clearly and effectively.
 here are some visualizations
-![dashboard1](https://github.com/user-attachments/assets/e7ca6ea2-b96f-4217-b181-febe2f669988)
+![dashboard1](https://github.com/user-attachments/assets/a4bd9fac-0075-45e0-9660-95f2532be2d6)
 
 
-![dashboard2](https://github.com/user-attachments/assets/1b5921c9-692a-41df-afcc-dcf642e1fa38)
+
+![dashboard2](https://github.com/user-attachments/assets/ecd9f030-805f-4554-8ad1-7d22f08ac1b8)
 
 
-![dashboard3](https://github.com/user-attachments/assets/950f6ae7-5da9-4859-ac1a-c1e15fd5ef1a)
+
+![dashboard3](https://github.com/user-attachments/assets/cf738ad4-a866-41ca-8520-276631f52f82)
+
 
 
 
