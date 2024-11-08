@@ -64,7 +64,7 @@ Ans1: i downloaded the dataset from https://divvy-tripdata.s3.amazonaws.com/inde
 
 Que2: How is the data organized?
 
-Ans2: There are many ways to organize data. I chose PowerBi because i can also clean data in there. I combined data from all quarters into a single dataframe then added some colums that were necessary and removed unnecessary columns.
+Ans2: There are many ways to organize data. I chose Python and PowerBi because i can also clean data in there. I combined data from all quarters into a single dataframe then added some colums that were necessary and removed unnecessary columns.
 
 Que3. Are there issues with bias or credibility in this data? Does your data ROCCC?
 
@@ -93,7 +93,7 @@ Guiding questions
 
 Que1. What tools are you choosing and why?
 
-Ans1. I chose Power BI for the analysis because it offers powerful data visualization capabilities, user-friendly design, and robust integration with various data sources. It allows for interactive dashboards and detailed reporting, which are ideal for exploring and presenting insights from the Divvy trip data effectively.
+Ans1. I chose Python and Power BI for the analysis because it offers powerful data visualization capabilities, user-friendly design, and robust integration with various data sources. PowerBi allows for interactive dashboards and detailed reporting, which are ideal for exploring and presenting insights from the Divvy trip data effectively.
 
 Que2. Have you ensured your data’s integrity?
 
@@ -110,7 +110,7 @@ Ans4. I verify that my data is clean and ready to analyze by checking for and re
 Que5. Have you documented your cleaning process so you can review and share those
 results?
 
-Ans5. I combined data from all quarters into a single dataframe then added some colums that were necessary and removed unnecessary columns.
+Ans5. I combined data from all quarters into a single dataframe then added some columns that were necessary and removed unnecessary columns.
 
 **Phase 4 – Analyze**
 
@@ -118,9 +118,9 @@ Guiding questions
 
 Que1. How should you organize your data to perform analysis on it?
 
-Ans2. First of all i combined data from quarters into a single frame. After thatt to organize data for analysis, i arranged it into clear tables and make sure dates, numbers, and text are consistently formatted. I used clear headers, apply filters and sorting to focus on important parts, and added calculated columns for any needed metrics.
+Ans2. First of all i combined data from quarters into a single frame in Python and then i cleaned it. After thatt to organize data for analysis, i arranged it into clear tables and make sure dates, numbers, and text are consistently formatted. I used clear headers, apply filters and sorting to focus on important parts, and added calculated columns for any needed metrics.
 Here are some columns that i added
-![image](https://github.com/user-attachments/assets/3f6611c1-b363-4052-a4de-bd94dcf7b1c7)
+[[![image](https://github.com/user-attachments/assets/3f6611c1-b363-4052-a4de-bd94dcf7b1c7)](https://github.com/ashut0sh-verma/Case-Study-/issues/6#issue-2643405390)](https://github.com/ashut0sh-verma/Case-Study-/issues/6#issue-2643405390)
 
 
 
