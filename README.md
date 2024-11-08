@@ -175,7 +175,7 @@ here are some visualizations
 
 
 
-![dashboard3](https://github.com/user-attachments/assets/cf738ad4-a866-41ca-8520-276631f52f82)
+![image](https://github.com/user-attachments/assets/ddf4ddd4-e921-4333-99cf-4ffe842676da)
 
 
 
@@ -187,12 +187,12 @@ Guiding question
 
 Que1.  What is your final conclusion based on your analysis?
 
-Ans1. From the analysis, we see that annual members ride more often during weekdays and usually take longer trips. In contrast, casual riders tend to use the bikes on weekends for shorter trips. This shows clear differences in how each group uses the bike service. Most busy station is Canal St & Adams St.The most popular time for trips is during the 5 PM hour, with 418K trips. 
-      The second most popular time is 4 PM, with 320K trips, followed by 8 AM with 291K trips.
+Ans1. From the analysis, we see that annual members ride more often during weekdays and usually take longer trips. In contrast, casual riders tend to use the bikes on weekends for shorter trips. This shows clear differences in how each group uses the bike service. Most busy station is Streeter DR & Grand Ave.The most popular time for trips is during the 5 PM hour, with 469K trips. 
+      The second most popular time is 4 PM, with 372K trips, followed by 6 PM with 310K trips.
       There is a clear spike in usage during peak commuting hours, such as mornings (7-9 AM) and evenings (4-6 PM), indicating that many users likely use Cyclistic bikes for commuting purposes.
       There is a significant drop-off in usage between 10 PM and 5 AM, which suggests that bike usage is minimal during late night and early morning hours.
-      Subscribers show a consistent number of trips across the weekdays, peaking on Friday and maintaining high usage on Monday, Tuesday, Wednesday, and Thursday.
-      Casual riders , on the other hand, show a different pattern, with fewer trips on weekdays and more trips on the weekends, especially on Saturday with a slight peak at 0.07M trips.
+      Subscribers show a consistent number of trips across the weekdays, peaking on Tuesday and maintaining high usage on Monday, Tuesday, Wednesday, Thursday and Friday.
+      Casual riders , on the other hand, show a different pattern, with fewer trips on weekdays and more trips on the weekends, especially on Saturday with a slight peak at 197K trips.
       This suggests that subscribers use the bikes more regularly for commuting during the week, while casual riders tend to use the bikes more for leisure on weekends.
       
 
